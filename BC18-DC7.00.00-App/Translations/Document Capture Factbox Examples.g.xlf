@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Document Capture Factbox Examples">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 2895610509 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Capture Client Addin</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE DC Addin VendLedEnt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2895610509 - NamedType 2760571424" size-unit="char" translate="yes" xml:space="preserve">
+          <source>(1 page in total)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE DC Addin VendLedEnt - NamedType PageInTotalLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 2895610509 - NamedType 2741096484" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1</source>
+          <note from="Developer" annotates="general" priority="2">%1 Shows the page number</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE DC Addin VendLedEnt - NamedType PageNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 2895610509 - NamedType 3477535049" size-unit="char" translate="yes" xml:space="preserve">
+          <source>(%1 pages in total)</source>
+          <note from="Developer" annotates="general" priority="2">%1 show the number of pages</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE DC Addin VendLedEnt - NamedType PagesInTotalLbl</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1730409709 - Control 1217035880 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1567633909">
+          <source>Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PTE DC Vendor Ledger Entry - Control CDCCaptureUI - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

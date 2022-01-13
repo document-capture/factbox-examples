@@ -2,7 +2,7 @@
 // Remember that object names and IDs should be unique across all extensions.
 // AL snippets start with t*, like tpageext - give them a try and happy coding!
 
-pageextension 62024 "DCADV Item Card Factbox" extends "Item Card"
+pageextension 62024 "PTE DC Item Card Factbox" extends "Item Card"
 {
     layout
     {
