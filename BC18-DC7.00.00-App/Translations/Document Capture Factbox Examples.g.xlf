@@ -23,6 +23,11 @@
           <note from="Developer" annotates="general" priority="2">%1 show the number of pages</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page PTE DC Addin VendLedEnt - NamedType PagesInTotalLbl</note>
         </trans-unit>
+        <trans-unit id="PageExtension 611350826 - Control 1217035880 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 407220332">
+          <source>Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PTE DC PostPurchInv Factbox - Control CDCCaptureUI - Property Caption</note>
+        </trans-unit>
         <trans-unit id="PageExtension 1730409709 - Control 1217035880 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1567633909">
           <source>Document</source>
           <note from="Developer" annotates="general" priority="2"></note>
